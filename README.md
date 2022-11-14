@@ -1,1 +1,1 @@
-# Simple clone o the Experiences page from Airbnb
+# Simple clone of the Experiences page from Airbnb
